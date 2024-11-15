@@ -1,0 +1,70 @@
+{
+  "title": "Agustin Pio Barrios",
+  "author": "Erwin Salinas",
+  "school": "Juan Pablo II",
+  "date": "5/04/24",
+  "areaCodes": [
+    "mus"
+  ],
+  "areas": {
+    "es": "Música"
+  },
+  "levelCodes": [
+    "PRI"
+  ],
+  "levels": {
+    "es": "Primaria (6-12)"
+  },
+  "description": {},
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "agus JCLICK.jclic.zip ORI.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 18,
+  "mediaFiles": 32,
+  "totalSize": 26732167,
+  "files": [
+    "06d7eee041742405935b2a9cb537e581-resized.jpg",
+    "1d74fd3cb60cbd5d1d45a4013f81afa3.jpg",
+    "agus JCLICK.jclic.zip ORI.jclic",
+    "agus JCLICK.jclic.zip ORI.jclic.js",
+    "agustin-pio-barrios-mangore.mp3",
+    "agustin_barrios_1910b-resized.jpg",
+    "aguu_png.png",
+    "aguuuuuu.png",
+    "c613e3c8e26dc22e84c05b609851ee6e-resized.jpg",
+    "c__users_hp_pictures_camera_roll_dea766fb-e8d1-449e-8282-61dd5290dd20-resized.jpg",
+    "c__users_hp_pictures_feedback_download.jpg",
+    "c__users_hp_pictures_logos_56e5a5a8-0e0c-4951-9edc-f6c244275983.jpg",
+    "c__users_hp_pictures_saved_pictures_download.jpg",
+    "c__users_usuario_documents_images.jpg",
+    "c__users_usuario_downloads_las-abejas.mp3",
+    "capricho-arabe.mp3",
+    "contemplacion.mp3",
+    "cueca.mp3",
+    "download.jpg",
+    "favicon.ico",
+    "flag_of_paraguay_reverse.gif",
+    "icon-192.png",
+    "icon-72.png",
+    "imagenes_png-resized.jpg",
+    "imitacion-al-violoncello-1st-rec.mp3",
+    "imsmanifest.xml",
+    "index.html",
+    "insignia_juan_pablo_ii-resized.jpg",
+    "la-catedral.mp3",
+    "logo_del_paraguay.png",
+    "logo_png.png",
+    "ministerio_de_educacion.jpg",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "una-limosna-por-el-amor-de-dios--la-ultima-cancion__1_.mp3",
+    "vals.mp3"
+  ]
+}
